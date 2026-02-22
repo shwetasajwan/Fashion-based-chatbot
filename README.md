@@ -14,11 +14,11 @@ Unlike rule-based chatbots, this system uses a trained Support Vector Machine (S
 
 ## 🧠 How It Works
 
-1️. User enters a fashion-related query
-2️. Text is preprocessed and vectorized
-3️. Input is passed to a trained SVM model
-4️. Model predicts the intent/category
-5️. Appropriate fashion response is returned
+- User enters a fashion-related query
+- Text is preprocessed and vectorized
+- Input is passed to a trained SVM model
+- Model predicts the intent/category  
+- Appropriate fashion response is returned
 
 ## 🚀 Core Features
 
@@ -58,4 +58,4 @@ Unlike rule-based chatbots, this system uses a trained Support Vector Machine (S
 - Context-aware conversation memory
 - Integration with e-commerce APIs
 - Voice-based chatbot version
-- Deployment on cloud (AWS / Render / Railway)
+- Deployment on cloud (AWS / Render / Railway) 
